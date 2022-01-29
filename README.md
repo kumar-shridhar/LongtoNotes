@@ -6,6 +6,8 @@ In this work, we build a corpus of coreference-annotated documents of significan
 We do so by providing an accurate, manually-curated, merging of annotations from documents that were split into multiple parts in the original Ontonotes annotation process Ontonotes.
 The resulting corpus, which we call **LongtoNotes** contains documents in multiple genres of the English language with varying lengths, the longest of which are up to 8x the length of documents in Ontonotes, and 2x those in [Litbank](https://github.com/dbamman/litbank).
 
+![Genre wise comparison between OntoNotes and LongtoNotes dataset](Images/genre_comparison.png)
+
 Read the complete paper here.
 
 ---
