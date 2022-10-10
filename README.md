@@ -32,3 +32,12 @@ The resulting corpus, which we call **LongtoNotes** contains documents in multip
 
 ---
 
+
+```
+@inproceedings{Shridhar2022LongtonotesOW,
+  title={Longtonotes: OntoNotes with Longer Coreference Chains},
+  author={Kumar Shridhar and Nicholas Monath and Raghuveer Thirukovalluru and Alessandro Stolfo and Manzil Zaheer and Andrew McCallum and Mrinmaya Sachan},
+  year={2022}
+}
+```
+
