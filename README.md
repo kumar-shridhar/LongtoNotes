@@ -1,5 +1,5 @@
 # LongtoNotes
-### LongtoNotes: OntoNotes with Longer Coreference Chains
+### [LongtoNotes: OntoNotes with Longer Coreference Chains](https://arxiv.org/abs/2210.03650)
 
 [Ontonotes](https://catalog.ldc.upenn.edu/LDC2013T19) has served as the most important benchmark for coreference resolution. However, for ease of annotation, several long documents in Ontonotes were split into smaller parts.
 In this work, we build a corpus of coreference-annotated documents of significantly longer length than what is currently available.
