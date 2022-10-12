@@ -35,11 +35,13 @@ The resulting corpus, which we call **LongtoNotes** contains documents in multip
 ---
 
 
-```
-@inproceedings{Shridhar2022LongtonotesOW,
+```bibtex
+@article{shridhar2022longtonotes,
   title={Longtonotes: OntoNotes with Longer Coreference Chains},
-  author={Kumar Shridhar and Nicholas Monath and Raghuveer Thirukovalluru and Alessandro Stolfo and Manzil Zaheer and Andrew McCallum and Mrinmaya Sachan},
+  author={Shridhar, Kumar and Monath, Nicholas and Thirukovalluru, Raghuveer and Stolfo, Alessandro and Zaheer, Manzil and McCallum, Andrew and Sachan, Mrinmaya},
+  journal={arXiv preprint arXiv:2210.03650},
   year={2022}
 }
 ```
+
 
